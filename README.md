@@ -1,6 +1,6 @@
 # Flutter iOS GitHub Automation Tool
 
-![ASCII Art](https://raw.githubusercontent.com/pear-lang/IOS-Builder/main/ascii_art.png)
+![ASCII Art](https://raw.githubusercontent.com/pear-lang/IOS-Builder/main/assets/img/ascii_art.png)
 
 ## Table of Contents
 
