@@ -106,6 +106,7 @@ The tool provides various command-line arguments to customize its behavior. Belo
 | `--build-timeout`       |       | Integer | No       | Build timeout in seconds (default: `1800`).                                                   |
 | `--poll-interval`       |       | Integer | No       | Polling interval in seconds (default: `30`).                                                  |
 | `--verbose`             | `-v`  | Flag    | No       | Enable verbose output for detailed logs.                                                      |
+| `--help`                | `-h`  | Flag    | No       | Detailed explanation of all flags.                                                      |
 
 ### Examples
 
