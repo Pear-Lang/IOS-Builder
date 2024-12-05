@@ -502,7 +502,6 @@ def main():
     parser = argparse.ArgumentParser(
         description="Automates the creation and management of GitHub repositories for Flutter iOS projects."
     )
-
     parser.add_argument(
         '--token', '-t',
         type=str,
