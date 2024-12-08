@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon="C:\Users\Julian\Desktop\dev\projects\IOS_Compiler\assets\icons\ico.ico" --hidden-import=github --hidden-import=requests --hidden-import=colorama --hidden-import=termcolor --hidden-import=PyGithub  "C:\Users\Julian\Desktop\dev\projects\IOS_Compiler\compiler.py"

@@ -1,0 +1,5 @@
+PyGithub
+requests
+colorama
+termcolor
+tqdm

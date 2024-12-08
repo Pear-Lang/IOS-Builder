@@ -1,0 +1,1 @@
+python compiler.py -a createrepo -r your-repo-name --ipa-name MyApp.ipa --token YOUR_TOKEN --verbose --project-path /path/to/your/flutter-project
